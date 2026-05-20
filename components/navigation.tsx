@@ -30,6 +30,9 @@ export function Navigation() {
             <Link href="/services" className="text-foreground hover:text-primary transition-colors">
               Services
             </Link>
+            <Link href="/verify-certificate" className="text-foreground hover:text-primary transition-colors">
+              Verify Certificate
+            </Link>
             <Link href="/contact" className="text-foreground hover:text-primary transition-colors">
               Contact
             </Link>
@@ -71,6 +74,13 @@ export function Navigation() {
                 onClick={() => setIsOpen(false)}
               >
                 Services
+              </Link>
+              <Link
+                href="/verify-certificate"
+                className="block px-3 py-2 text-foreground hover:text-primary transition-colors"
+                onClick={() => setIsOpen(false)}
+              >
+                Verify Certificate
               </Link>
               <Link
                 href="/contact"
