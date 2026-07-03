@@ -536,6 +536,19 @@ const studentData = [
     programName: "Frontend Web Development",
     companyName: "Playtown Studios",
     companyAddress: "A-283 Ramnagriya, Jagatpura, Jaipur 302017",
+  },
+  {
+    learnerCode: "PTS-26-INT-WD-0152",
+    name: "Ravi Kumar",
+    email: "",
+    course: "B.Tech",
+    semester: "VIII",
+    rollNo: "22TEC2CS049",
+    collegeName: "Vivekananda Global University",
+    academicYear: "2025-2026",
+    programName: "Web Development",
+    companyName: "Playtown Studios",
+    companyAddress: "A-283 Ramnagriya, Jagatpura, Jaipur 302017",
   }
 ];
 
