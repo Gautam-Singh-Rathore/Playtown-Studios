@@ -1160,7 +1160,7 @@ const studentData = [
   "programName": "Frontend Development",
   "companyName": "Playtown Studios",
   "companyAddress": "A-283 Ramnagriya, Jagatpura, Jaipur 302017"
-}
+},
 ];
 
 // --- Footer Component ---
