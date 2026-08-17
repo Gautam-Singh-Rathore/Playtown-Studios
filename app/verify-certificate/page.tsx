@@ -1161,6 +1161,20 @@ const studentData = [
   "companyName": "Playtown Studios",
   "companyAddress": "A-283 Ramnagriya, Jagatpura, Jaipur 302017"
 },
+{
+  "learnerCode": "PTS-26-01-1052",
+  "name": "Pushpendra Rawat",
+  "email": "",
+  "course": "B.Tech",
+  "semester": "V",
+  "rollNo": "",
+  "collegeName": "Poornima College of Engineering",
+  "academicYear": "2025-2026",
+  "programName": "Frontend Development",
+  "companyName": "Playtown Studios",
+  "companyAddress": "A-283 Ramnagriya, Jagatpura, Jaipur 302017"
+},
+
 ];
 
 // --- Footer Component ---
