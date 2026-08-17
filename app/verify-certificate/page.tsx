@@ -1121,8 +1121,46 @@ const studentData = [
     "programName": "UI/UX Designing",
     "companyName": "Playtown Studios",
     "companyAddress": "A-283 Ramnagriya, Jagatpura, Jaipur 302017"
-  }
-
+  },
+  {
+  "learnerCode": "PTS-26-01-1001",
+  "name": "Parth Singh",
+  "email": "",
+  "course": "BE",
+  "semester": "",
+  "rollNo": "",
+  "collegeName": "Chandigarh University",
+  "academicYear": "2025-2026",
+  "programName": "Software Development",
+  "companyName": "Playtown Studios",
+  "companyAddress": "A-283 Ramnagriya, Jagatpura, Jaipur 302017"
+},
+{
+  "learnerCode": "PTS-26-01-1007",
+  "name": "Bala Jee",
+  "email": "",
+  "course": "B.Tech",
+  "semester": "",
+  "rollNo": "",
+  "collegeName": "Bhagwan Parshuram Institute Of Technology",
+  "academicYear": "2025-2026",
+  "programName": "Frontend Development",
+  "companyName": "Playtown Studios",
+  "companyAddress": "A-283 Ramnagriya, Jagatpura, Jaipur 302017"
+},
+{
+  "learnerCode": "PTS-26-01-1051",
+  "name": "Harsh Jain",
+  "email": "",
+  "course": "B.Tech",
+  "semester": "",
+  "rollNo": "",
+  "collegeName": "Bhagwan Parshuram Institute Of Technology",
+  "academicYear": "2025-2026",
+  "programName": "Frontend Development",
+  "companyName": "Playtown Studios",
+  "companyAddress": "A-283 Ramnagriya, Jagatpura, Jaipur 302017"
+}
 ];
 
 // --- Footer Component ---
