@@ -1174,6 +1174,19 @@ const studentData = [
   "companyName": "Playtown Studios",
   "companyAddress": "A-283 Ramnagriya, Jagatpura, Jaipur 302017"
 },
+{
+  "learnerCode": "PTS-26-01-160",
+  "name": "Shubham Kumar",
+  "email": "",
+  "course": "B.Tech",
+  "semester": "",
+  "rollNo": "",
+  "collegeName": "Swami Keshvanand Institute of Technology",
+  "academicYear": "2025-2026",
+  "programName": "3D Animation",
+  "companyName": "Playtown Studios",
+  "companyAddress": "A-283 Ramnagriya, Jagatpura, Jaipur 302017"
+}
 
 ];
 
