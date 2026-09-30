@@ -1186,7 +1186,72 @@ const studentData = [
   "programName": "3D Animation",
   "companyName": "Playtown Studios",
   "companyAddress": "A-283 Ramnagriya, Jagatpura, Jaipur 302017"
-}
+},
+{
+  "learnerCode": "PTS-26-INT-DA-292",
+  "name": "Gourav Kumawat",
+  "email": "",
+  "course": "B.Tech",
+  "semester": "",
+  "rollNo": "",
+  "collegeName": "Engineering college ajmer",
+  "academicYear": "2025-26",
+  "programName": "Data analytics",
+  "companyName": "Playtown Studios Pvt. Ltd",
+  "companyAddress": "A-283 Ramnagriya, Jagatpura, Jaipur 302017"
+},
+{
+  "learnerCode": "PTS-26-INT-DA-222",
+  "name": "Himanshu Prajapati",
+  "email": "",
+  "course": "B.Tech",
+  "semester": "",
+  "rollNo": "",
+  "collegeName": "Engineering college ajmer",
+  "academicYear": "2025-26",
+  "programName": "Data Analyst",
+  "companyName": "Playtown Studios Pvt. Ltd",
+  "companyAddress": "A-283 Ramnagriya, Jagatpura, Jaipur 302017"
+},
+{
+  "learnerCode": "PTS-26-01-115",
+  "name": "Amandeep Singh Rathore",
+  "email": "",
+  "course": "B.Tech",
+  "semester": "III",
+  "rollNo": "",
+  "collegeName": "Swami Keshvanand Institute of Technology",
+  "academicYear": "2025-26",
+  "programName": "Web Devlopment",
+  "companyName": "Playtown Studios Pvt. Ltd",
+  "companyAddress": "A-283 Ramnagriya, Jagatpura, Jaipur 302017"
+},
+{
+  "learnerCode": "PTS-26-01-5001",
+  "name": "Nandkishore Singh",
+  "email": "",
+  "course": "B.Tech",
+  "semester": "VI",
+  "rollNo": "",
+  "collegeName": "Anand international college of engineering",
+  "academicYear": "2025-26",
+  "programName": "web development",
+  "companyName": "Playtown Studios Pvt. Ltd",
+  "companyAddress": "A-283 Ramnagriya, Jagatpura, Jaipur 302017"
+},
+{
+  "learnerCode": "PTS-26-01-189",
+  "name": "Lakshit Khandelwal",
+  "email": "",
+  "course": "B.Tech",
+  "semester": "IV",
+  "rollNo": "",
+  "collegeName": "Swami Keshvanand Institute of Technology",
+  "academicYear": "2025-26",
+  "programName": "Web devlopment",
+  "companyName": "Playtown Studios Pvt. Ltd",
+  "companyAddress": "A-283 Ramnagriya, Jagatpura, Jaipur 302017"
+} 
 
 ];
 
